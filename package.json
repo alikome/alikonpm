@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/alikome/alikonpm/issues"
   },
-  "homepage": "https://github.com/alikome/alikonpm#readme"
+  "homepage": "https://github.com/alikome/alikonpm#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
 }
