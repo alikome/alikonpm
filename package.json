@@ -1,6 +1,6 @@
 {
   "name": "alikonpm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is a simple npm tool for the alikonpm test",
   "main": "index.js",
   "scripts": {
