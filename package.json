@@ -1,0 +1,22 @@
+{
+  "name": "alikonpm",
+  "version": "1.0.0",
+  "description": "this is a simple npm tool for the alikonpm test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alikome/alikonpm.git"
+  },
+  "keywords": [
+    "alikonpm"
+  ],
+  "author": "Zaghloo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alikome/alikonpm/issues"
+  },
+  "homepage": "https://github.com/alikome/alikonpm#readme"
+}
